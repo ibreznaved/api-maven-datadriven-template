@@ -1,0 +1,13 @@
+package api.test;
+
+import org.testng.annotations.BeforeClass;
+
+public class UserTests {
+	
+	
+	@BeforeClass
+	public void setupData() {
+		
+	}
+
+}
